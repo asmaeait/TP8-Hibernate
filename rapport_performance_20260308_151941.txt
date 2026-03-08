@@ -1,0 +1,61 @@
+=== RAPPORT DE PERFORMANCE ===
+Date: 2026-03-08 15:19:41
+=================================
+
+Test: Recherche de salles disponibles
+Temps d'exécution: 9ms
+Nombre de requêtes: 0
+Entités chargées: 0
+Hits du cache: 0
+Miss du cache: 0
+Taille du résultat: 15
+Ratio de hit du cache: 0.00%
+----------------------------------
+
+Test: Recherche multi-critères
+Temps d'exécution: 8ms
+Nombre de requêtes: 0
+Entités chargées: 0
+Hits du cache: 0
+Miss du cache: 0
+Taille du résultat: 5
+Ratio de hit du cache: 0.00%
+----------------------------------
+
+Test: Pagination
+Temps d'exécution: 3ms
+Nombre de requêtes: 0
+Entités chargées: 0
+Hits du cache: 0
+Miss du cache: 0
+Taille du résultat: 10
+Ratio de hit du cache: 0.00%
+----------------------------------
+
+Test: Accès répété avec cache
+Temps d'exécution: 36ms
+Nombre de requêtes: 0
+Entités chargées: 0
+Hits du cache: 0
+Miss du cache: 0
+Taille du résultat: 1
+Ratio de hit du cache: 0.00%
+----------------------------------
+
+Test: Requête avec JOIN FETCH
+Temps d'exécution: 12ms
+Nombre de requêtes: 0
+Entités chargées: 0
+Hits du cache: 0
+Miss du cache: 0
+Taille du résultat: 10
+Ratio de hit du cache: 0.00%
+----------------------------------
+
+
+=== RECOMMANDATIONS ===
+
+3. Recommandations générales:
+   - Monitorer les performances avec JProfiler ou VisualVM
+   - Mettre en place des alertes de performance en production
+   - Utiliser un pool de connexions HikariCP en production
