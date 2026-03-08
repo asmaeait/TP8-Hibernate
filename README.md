@@ -169,5 +169,5 @@ Le script `migration_v2.sql` permet de mettre à jour une base de données exist
 
 ## Démonstration vidéo
 
-Voir le fichier `video_deo.mkv` joint au projet.
+Voir le fichier `Deo.mp4` joint au projet.
 ---
