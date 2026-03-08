@@ -170,4 +170,9 @@ Le script `migration_v2.sql` permet de mettre à jour une base de données exist
 ## Démonstration vidéo
 
 Voir le fichier `demo/video_demo.mp4` joint au projet.
+
 ---
+
+https://github.com/user-attachments/assets/b265a7e9-4d6a-4d88-8d57-cc204d742b18
+
+
